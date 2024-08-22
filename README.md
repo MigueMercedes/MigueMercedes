@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Miguel Mercedes and I'm a Software Developer, from Dominican Republic.</p>
+<p align="left">My name is Miguel Mercedes and I'm a Software Engineer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning DBA<br>🎲 Hobbies: Learn, Coding, Gym, video games, anime,, etc.</p>
+<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently focused on honing my backend skills.<br>🎲 Hobbies: Learn, Coding, Gym, video games, anime,, etc.</p>
 
 ###
 
