@@ -58,7 +58,7 @@
 ### 📫 Let's Connect
 
 If you're interested in collaborating or just want to talk about tech, feel free to reach out!  
-📬 [lmyguel0324@gmail.com](mailto:lmyguel0324@gmail.com) · 🌐 [Coming soon]([https://your-portfolio.com](https://github.com/MigueMercedes/#) · 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-mercedes/)
+📬 [lmyguel0324@gmail.com](mailto:lmyguel0324@gmail.com) · 🌐 [Coming soon]([](https://github.com/MigueMercedes/#) · 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-mercedes/)
 
 ---
 
