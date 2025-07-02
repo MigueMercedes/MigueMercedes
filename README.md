@@ -8,7 +8,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="[https://your-portfolio.com](https://migmerdev.vercel.app/)">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox-browser&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -58,7 +58,7 @@
 ### 📫 Let's Connect
 
 If you're interested in collaborating or just want to talk about tech, feel free to reach out!  
-📬 [lmyguel0324@gmail.com](mailto:lmyguel0324@gmail.com) · 🌐 [Coming soon]([](https://github.com/MigueMercedes/#) · 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-mercedes/)
+📬 [lmyguel0324@gmail.com](mailto:lmyguel0324@gmail.com) · 🌐 [Web]([]([https://github.com/MigueMercedes/#](https://migmerdev.vercel.app/)) · 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-mercedes/)
 
 ---
 
